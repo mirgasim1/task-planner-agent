@@ -1,5 +1,5 @@
 # Task Planner Assistant
-Simple task planner assistant task planner assistant that helps users create step-by-step plans for their goals.
+Simple task planner assistant that helps users create step-by-step plans for their goals.
 
 ## Step 1 – System Plan
 
