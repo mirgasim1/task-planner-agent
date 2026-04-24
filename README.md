@@ -14,3 +14,12 @@ The system will use the following tools:
 - Keyword extractor tool to identify important words in the user input
 - Plan generator tool to create a step-by-step plan based on the goal
 - Output formatter tool to display the result in a clear structure
+
+### 4. Programming Concepts
+The following programming concepts will be used:
+- Functions
+- Classes
+- Modules
+- Lists and dictionaries
+- String processing
+- Basic error handling
