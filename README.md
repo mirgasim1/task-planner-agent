@@ -8,3 +8,9 @@ I plan to develop a simple Task Planner Assistant using Python. The system will 
 
 ### 2. Agent-Based Approach
 The system will use a simple agent-based approach. The agent will receive input from the user, analyze the text, and decide what type of plan is needed. Then it will use tools to generate a step-by-step plan and return it as output.
+
+### 3. Tools
+The system will use the following tools:
+- Keyword extractor tool to identify important words in the user input
+- Plan generator tool to create a step-by-step plan based on the goal
+- Output formatter tool to display the result in a clear structure
